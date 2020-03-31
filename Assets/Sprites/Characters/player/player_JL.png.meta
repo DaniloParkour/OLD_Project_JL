@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 695c7c9d910adf54594236f38b90b18a
+timeCreated: 1483127865
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player_JL_0
+    21300002: player_JL_1
+    21300004: player_JL_2
+    21300006: player_JL_3
+    21300008: player_JL_4
+    21300010: player_JL_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_JL_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 43
+        height: 54
+      alignment: 9
+      pivot: {x: 0.49119043, y: 0.095470004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_JL_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 188
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_JL_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 143
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.64083886, y: 0.89384025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_JL_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 29
+        height: 41
+      alignment: 9
+      pivot: {x: 0.8309129, y: 0.8880474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_JL_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 51
+        width: 20
+        height: 36
+      alignment: 9
+      pivot: {x: 0.7209714, y: 0.8261956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: player_JL_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 30
+        height: 29
+      alignment: 9
+      pivot: {x: 0.16749048, y: 0.83091265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

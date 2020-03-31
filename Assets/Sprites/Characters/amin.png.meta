@@ -1,0 +1,420 @@
+fileFormatVersion: 2
+guid: 8c3f73f53a0731844a93551aeb5c4982
+timeCreated: 1472007663
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: amin_0
+    21300002: amin_1
+    21300004: amin_2
+    21300006: amin_3
+    21300008: amin_4
+    21300010: amin_5
+    21300012: amin_6
+    21300014: amin_7
+    21300016: amin_8
+    21300018: amin_9
+    21300020: amin_10
+    21300022: amin_11
+    21300024: amin_12
+    21300026: amin_13
+    21300028: amin_14
+    21300030: amin_15
+    21300032: amin_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: amin_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 190
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 100.5}
+        - {x: -44, y: 100.5}
+        - {x: -94, y: 40.5}
+        - {x: -95, y: 21.5}
+        - {x: -95, y: 6.5}
+        - {x: -81, y: -41.5}
+        - {x: -76, y: -55.5}
+        - {x: -95, y: -77.5}
+        - {x: -95, y: -100.5}
+        - {x: 70, y: -100.5}
+        - {x: 95, y: -60.5}
+        - {x: 95, y: 71.5}
+        - {x: 54, y: 97.5}
+      - - {x: 55, y: -93.5}
+        - {x: 49, y: -95.5}
+        - {x: 46, y: -99.5}
+        - {x: 46, y: -100.5}
+        - {x: 65, y: -100.5}
+        - {x: 65, y: -97.5}
+        - {x: 60, y: -93.5}
+    - name: amin_1
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 256
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 43.5}
+        - {x: -23.5, y: 41.5}
+        - {x: -23.5, y: -43.5}
+        - {x: 19.5, y: -43.5}
+        - {x: 23.5, y: -27.5}
+        - {x: 23.5, y: 43.5}
+    - name: amin_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 256
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 44}
+        - {x: -24, y: 42}
+        - {x: -24, y: -44}
+        - {x: 19, y: -44}
+        - {x: 24, y: -13}
+        - {x: 24, y: 43}
+        - {x: 23, y: 44}
+    - name: amin_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 256
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -43.5}
+        - {x: 17, y: -43.5}
+        - {x: 23, y: -23.5}
+        - {x: 23, y: 43.5}
+        - {x: -17, y: 43.5}
+        - {x: -23, y: 41.5}
+      - - {x: 15, y: -36.5}
+        - {x: 18, y: -35.5}
+        - {x: 18, y: -32.5}
+        - {x: 15, y: -31.5}
+        - {x: 13, y: -33.5}
+    - name: amin_4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 256
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 43.5}
+        - {x: -23.5, y: 38.5}
+        - {x: -23.5, y: -43.5}
+        - {x: 15.5, y: -43.5}
+        - {x: 23.5, y: -16.5}
+        - {x: 23.5, y: 42.5}
+        - {x: 19.5, y: 43.5}
+    - name: amin_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 256
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 35.5}
+        - {x: -37, y: -35.5}
+        - {x: 37, y: -35.5}
+        - {x: 37, y: 11.5}
+        - {x: 9, y: 35.5}
+    - name: amin_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 145
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 43}
+        - {x: -23.5, y: -43}
+        - {x: 6.5, y: -43}
+        - {x: 23.5, y: -18}
+        - {x: 23.5, y: 42}
+        - {x: 20.5, y: 43}
+    - name: amin_7
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 145
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 43.5}
+        - {x: -28.5, y: 32.5}
+        - {x: -28.5, y: -43.5}
+        - {x: 9.5, y: -43.5}
+        - {x: 28.5, y: -20.5}
+        - {x: 28.5, y: 37.5}
+        - {x: 22.5, y: 43.5}
+    - name: amin_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 145
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 43.5}
+        - {x: -10.5, y: 43.5}
+        - {x: -30.5, y: 37.5}
+        - {x: -30.5, y: -29.5}
+        - {x: -3.5, y: -43.5}
+        - {x: 20.5, y: -43.5}
+        - {x: 28.5, y: -36.5}
+        - {x: 30.5, y: -18.5}
+        - {x: 30.5, y: 42.5}
+    - name: amin_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 145
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 43}
+        - {x: -25.5, y: 25}
+        - {x: -27.5, y: 21}
+        - {x: -27.5, y: -42}
+        - {x: -26.5, y: -43}
+        - {x: 16.5, y: -43}
+        - {x: 27.5, y: -13}
+        - {x: 27.5, y: 41}
+        - {x: 22.5, y: 43}
+    - name: amin_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 145
+        width: 50
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 43.5}
+        - {x: -25, y: 31.5}
+        - {x: -25, y: -43.5}
+        - {x: -3, y: -43.5}
+        - {x: 17, y: -32.5}
+        - {x: 25, y: -3.5}
+        - {x: 25, y: 36.5}
+        - {x: 17, y: 43.5}
+    - name: amin_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 145
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 43}
+        - {x: -27, y: 37}
+        - {x: -27, y: -35}
+        - {x: -13, y: -43}
+        - {x: 17, y: -43}
+        - {x: 27, y: -28}
+        - {x: 27, y: 39}
+        - {x: 25, y: 43}
+    - name: amin_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 55
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.5, y: 45.5}
+        - {x: -16.5, y: 42.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -27.5, y: 17.5}
+        - {x: -27.5, y: -45.5}
+        - {x: 20.5, y: -45.5}
+        - {x: 27.5, y: -20.5}
+        - {x: 27.5, y: 45.5}
+    - name: amin_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 31
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 45.5}
+        - {x: -30.5, y: 41.5}
+        - {x: -30.5, y: -25.5}
+        - {x: -21.5, y: -45.5}
+        - {x: 14.5, y: -45.5}
+        - {x: 30.5, y: -11.5}
+        - {x: 30.5, y: 45.5}
+    - name: amin_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 31
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: 41.5}
+        - {x: -12.5, y: 41.5}
+        - {x: -22.5, y: 26.5}
+        - {x: -30.5, y: 7.5}
+        - {x: -30.5, y: -13.5}
+        - {x: -20.5, y: -13.5}
+        - {x: -15.5, y: -12.5}
+        - {x: -13.5, y: -10.5}
+        - {x: -16.5, y: -16.5}
+        - {x: -16.5, y: -21.5}
+        - {x: -15.5, y: -24.5}
+        - {x: -12.5, y: -41.5}
+        - {x: 16.5, y: -41.5}
+        - {x: 30.5, y: -21.5}
+        - {x: 30.5, y: 37.5}
+    - name: amin_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 31
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -42.5}
+        - {x: 18, y: -42.5}
+        - {x: 31, y: -38.5}
+        - {x: 31, y: 42.5}
+        - {x: -13, y: 42.5}
+        - {x: -25, y: 39.5}
+        - {x: -31, y: 23.5}
+        - {x: -31, y: -33.5}
+        - {x: -27, y: -42.5}
+        - {x: -7, y: -42.5}
+        - {x: -2, y: -37.5}
+        - {x: -2, y: -34.5}
+        - {x: 1, y: -40.5}
+    - name: amin_16
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 31
+        width: 87
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 25}
+        - {x: -12.5, y: 10}
+        - {x: -14.5, y: -5}
+        - {x: -18.5, y: -8}
+        - {x: -17.5, y: -7}
+        - {x: -16.5, y: -3}
+        - {x: -32.5, y: 7}
+        - {x: -43.5, y: -3}
+        - {x: -43.5, y: -19}
+        - {x: -36.5, y: -25}
+        - {x: 43.5, y: -25}
+        - {x: 43.5, y: 9}
+        - {x: 32.5, y: 25}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

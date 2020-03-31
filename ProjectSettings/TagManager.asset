@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Insurable
+  - Coin
+  - Crystal
+  - LoseArea
+  - EndLevel
+  - Protect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemies
+  - Ground
+  - Collectables
+  - Item
+  - Object
+  - ObjectHolding
+  - ObjectMove
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3088005119
+    locked: 0
+  - name: Item
+    uniqueID: 3527425381
+    locked: 0
+  - name: Objects
+    uniqueID: 966984871
+    locked: 0
+  - name: Player
+    uniqueID: 2996273767
+    locked: 0
+  - name: FloorMap
+    uniqueID: 1680431931
+    locked: 0
+  - name: ObjectsMap
+    uniqueID: 1741807011
+    locked: 0
